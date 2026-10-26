@@ -5,8 +5,8 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_ID = 123456789  # Bu yerga o'z Telegram ID raqamingizni yozasiz (admin uchun)
+TOKEN = "8995107736:AAGptNpOm6e7g_qmOniMcXtM33PJG30m87s"
+ADMIN_ID = 6241400597  # Bu yerga o'z Telegram ID raqamingizni yozasiz (admin uchun)
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=TOKEN)
